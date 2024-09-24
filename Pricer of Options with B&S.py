@@ -1,4 +1,4 @@
-"Pricer of Options thakns to the Black-Scholes Formula"
+"Pricer of Options thanks to the Black-Scholes Formula"
 
 import yfinance as yf
 from scipy.stats import norm
