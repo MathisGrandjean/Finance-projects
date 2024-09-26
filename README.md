@@ -1,2 +1,2 @@
 # Finance-projects
-Here are the code that I make around the finance
+Here is the code I developed related to finance.
